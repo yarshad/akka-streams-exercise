@@ -1,0 +1,20 @@
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.lightbend.akkassembly.AuditorTest, org.scalatest.tools.Framework$$anon$1@1dd747b, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.lightbend.akkassembly.PaintShopTest, org.scalatest.tools.Framework$$anon$1@1dd747b, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.lightbend.akkassembly.EngineShopTest, org.scalatest.tools.Framework$$anon$1@1dd747b, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.lightbend.akkassembly.WheelShopTest, org.scalatest.tools.Framework$$anon$1@1dd747b, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.lightbend.akkassembly.FactoryTest, org.scalatest.tools.Framework$$anon$1@1dd747b, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.lightbend.akkassembly.BodyShopTest, org.scalatest.tools.Framework$$anon$1@1dd747b, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.lightbend.akkassembly.QualityAssuranceTest, org.scalatest.tools.Framework$$anon$1@1dd747b, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0m[36mRun completed in 3 seconds, 465 milliseconds.[0m[0m
+[0m[[0minfo[0m] [0m[36mTotal number of tests run: 28[0m[0m
+[0m[[0minfo[0m] [0m[36mSuites: completed 7, aborted 0[0m[0m
+[0m[[0minfo[0m] [0m[36mTests: succeeded 28, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0minfo[0m] [0m[32mAll tests passed.[0m[0m
+[0m[[0mdebug[0m] [0mPassed tests:[0m
+[0m[[0mdebug[0m] [0m	com.lightbend.akkassembly.EngineShopTest[0m
+[0m[[0mdebug[0m] [0m	com.lightbend.akkassembly.BodyShopTest[0m
+[0m[[0mdebug[0m] [0m	com.lightbend.akkassembly.WheelShopTest[0m
+[0m[[0mdebug[0m] [0m	com.lightbend.akkassembly.AuditorTest[0m
+[0m[[0mdebug[0m] [0m	com.lightbend.akkassembly.FactoryTest[0m
+[0m[[0mdebug[0m] [0m	com.lightbend.akkassembly.PaintShopTest[0m
+[0m[[0mdebug[0m] [0m	com.lightbend.akkassembly.QualityAssuranceTest[0m

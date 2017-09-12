@@ -1,0 +1,1525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cd4dd087-aa6d-4931-94df-26cfce3bb4a1" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/streams/$global/$global/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/streams/$global/ivySbt/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/streams/$global/projectDescriptors/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/streams/$global/update/$global/streams/update_cache_2.12/output" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/streams/$global/updateSbtClassifiers/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/streams/compile/compile/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/streams/compile/copyResources/$global/streams/copy-resources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/streams/test/compile/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/streams/test/compileIncremental/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/streams/test/copyResources/$global/streams/copy-resources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/streams/$global/$global/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/streams/$global/ivySbt/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/streams/$global/projectDescriptors/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/streams/$global/update/$global/streams/update_cache_2.12/output" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/streams/$global/updateSbtClassifiers/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/streams/compile/compile/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/streams/compile/copyResources/$global/streams/copy-resources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/streams/test/compile/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/streams/test/compileIncremental/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/streams/test/copyResources/$global/streams/copy-resources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/exercise_000_initial_state.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/exercise_001_working_with_sources.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/exercise_002_working_with_sinks.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/exercise_003_working_with_flows.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/exercise_004_building_streams.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/exercise_005_fault_tolerance.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/exercise_006_graphs.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/exercise_007_fusion.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/scala-2.12/classes/com/lightbend/akkassembly/Car$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/scala-2.12/classes/com/lightbend/akkassembly/Car.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/scala-2.12/classes/com/lightbend/akkassembly/Color$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/scala-2.12/classes/com/lightbend/akkassembly/Color.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/scala-2.12/classes/com/lightbend/akkassembly/Engine$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/scala-2.12/classes/com/lightbend/akkassembly/Engine.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/scala-2.12/classes/com/lightbend/akkassembly/SerialNumber$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/scala-2.12/classes/com/lightbend/akkassembly/SerialNumber.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/scala-2.12/classes/com/lightbend/akkassembly/Shipment$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/scala-2.12/classes/com/lightbend/akkassembly/Shipment.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/scala-2.12/classes/com/lightbend/akkassembly/UnfinishedCar$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/scala-2.12/classes/com/lightbend/akkassembly/UnfinishedCar.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/scala-2.12/classes/com/lightbend/akkassembly/Upgrade$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/scala-2.12/classes/com/lightbend/akkassembly/Upgrade$DX$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/scala-2.12/classes/com/lightbend/akkassembly/Upgrade$Sport$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/scala-2.12/classes/com/lightbend/akkassembly/Upgrade.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/scala-2.12/classes/com/lightbend/akkassembly/Wheel$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/scala-2.12/classes/com/lightbend/akkassembly/Wheel.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/scala-2.12/classes/com/lightbend/akkassembly/package$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/scala-2.12/classes/com/lightbend/akkassembly/package$TimedFuture$$anonfun$withTimer$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/scala-2.12/classes/com/lightbend/akkassembly/package$TimedFuture.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/scala-2.12/classes/com/lightbend/akkassembly/package.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/scala-2.12/classes/com/lightbend/akkassembly/tester$$anonfun$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/scala-2.12/classes/com/lightbend/akkassembly/tester$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/scala-2.12/classes/com/lightbend/akkassembly/tester$delayedInit$body.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/scala-2.12/classes/com/lightbend/akkassembly/tester.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/scala-2.12/test-classes/com/lightbend/akkassembly/AkkaSpec.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/streams/$global/ivySbt/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/streams/$global/projectDescriptors/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/streams/$global/update/$global/streams/update_cache_2.12/output" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/streams/compile/compile/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/streams/compile/copyResources/$global/streams/copy-resources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/streams/test/compile/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/streams/test/copyResources/$global/streams/copy-resources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/scala-2.12/classes/com/lightbend/akkassembly/Auditor.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/scala-2.12/classes/com/lightbend/akkassembly/BodyShop.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/scala-2.12/classes/com/lightbend/akkassembly/EngineShop.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/scala-2.12/classes/com/lightbend/akkassembly/Factory.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/scala-2.12/classes/com/lightbend/akkassembly/PaintShop.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/scala-2.12/classes/com/lightbend/akkassembly/QualityAssurance$$anonfun$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/scala-2.12/classes/com/lightbend/akkassembly/QualityAssurance.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/scala-2.12/classes/com/lightbend/akkassembly/WheelShop.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/scala-2.12/test-classes/com/lightbend/akkassembly/AuditorTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/scala-2.12/test-classes/com/lightbend/akkassembly/BodyShopTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/scala-2.12/test-classes/com/lightbend/akkassembly/EngineShopTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/scala-2.12/test-classes/com/lightbend/akkassembly/FactoryTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/scala-2.12/test-classes/com/lightbend/akkassembly/PaintShopTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/scala-2.12/test-classes/com/lightbend/akkassembly/QualityAssuranceTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/scala-2.12/test-classes/com/lightbend/akkassembly/WheelShopTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/streams/$global/$global/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/streams/$global/ivySbt/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/streams/$global/projectDescriptors/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/streams/$global/update/$global/streams/update_cache_2.12/output" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/streams/$global/updateSbtClassifiers/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/streams/compile/compile/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/streams/compile/copyResources/$global/streams/copy-resources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/streams/test/compile/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/streams/test/copyResources/$global/streams/copy-resources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/CommonSettings$$anonfun$commonSettings$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/CommonSettings$$anonfun$commonSettings$10.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/CommonSettings$$anonfun$commonSettings$11.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/CommonSettings$$anonfun$commonSettings$12.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/CommonSettings$$anonfun$commonSettings$13.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/CommonSettings$$anonfun$commonSettings$14.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/CommonSettings$$anonfun$commonSettings$15.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/CommonSettings$$anonfun$commonSettings$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/CommonSettings$$anonfun$commonSettings$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/CommonSettings$$anonfun$commonSettings$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/CommonSettings$$anonfun$commonSettings$5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/CommonSettings$$anonfun$commonSettings$6.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/CommonSettings$$anonfun$commonSettings$7.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/CommonSettings$$anonfun$commonSettings$8.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/CommonSettings$$anonfun$commonSettings$9.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/CommonSettings$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/CommonSettings.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/CompileOptions$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/CompileOptions.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/Dependencies$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/Dependencies.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/Version$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/Version.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbtstudent/AdditionalSettings$$anonfun$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbtstudent/AdditionalSettings$$anonfun$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbtstudent/AdditionalSettings$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbtstudent/AdditionalSettings.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbtstudent/Man$$anonfun$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbtstudent/Man$$anonfun$man$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbtstudent/Man$$anonfun$man$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbtstudent/Man$$anonfun$printOut$1$$anonfun$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbtstudent/Man$$anonfun$printOut$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbtstudent/Man$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbtstudent/Man.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbtstudent/Navigation$$anonfun$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbtstudent/Navigation$$anonfun$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbtstudent/Navigation$$anonfun$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbtstudent/Navigation$$anonfun$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbtstudent/Navigation$$anonfun$5$$anonfun$6.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbtstudent/Navigation$$anonfun$5$$anonfun$7.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbtstudent/Navigation$$anonfun$5$$anonfun$8.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbtstudent/Navigation$$anonfun$5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbtstudent/Navigation$$anonfun$9.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbtstudent/Navigation$$anonfun$gotoExerciseNr$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbtstudent/Navigation$$anonfun$gotoExerciseNr$2$$anonfun$13.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbtstudent/Navigation$$anonfun$gotoExerciseNr$2$$anonfun$14.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbtstudent/Navigation$$anonfun$gotoExerciseNr$2$$anonfun$apply$4$$anonfun$apply$5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbtstudent/Navigation$$anonfun$gotoExerciseNr$2$$anonfun$apply$4$$anonfun$apply$6.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbtstudent/Navigation$$anonfun$gotoExerciseNr$2$$anonfun$apply$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbtstudent/Navigation$$anonfun$gotoExerciseNr$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbtstudent/Navigation$$anonfun$gotoFirstExercise$1$$anonfun$apply$1$$anonfun$apply$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbtstudent/Navigation$$anonfun$gotoFirstExercise$1$$anonfun$apply$1$$anonfun$apply$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbtstudent/Navigation$$anonfun$gotoFirstExercise$1$$anonfun$apply$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbtstudent/Navigation$$anonfun$gotoFirstExercise$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbtstudent/Navigation$$anonfun$listExercises$1$$anonfun$10.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbtstudent/Navigation$$anonfun$listExercises$1$$anonfun$11$$anonfun$12.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbtstudent/Navigation$$anonfun$listExercises$1$$anonfun$11.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbtstudent/Navigation$$anonfun$listExercises$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbtstudent/Navigation$$anonfun$move$1$$anonfun$apply$7.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbtstudent/Navigation$$anonfun$move$1$$anonfun$apply$8.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbtstudent/Navigation$$anonfun$move$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbtstudent/Navigation$$anonfun$nextExercise$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbtstudent/Navigation$$anonfun$prevExercise$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbtstudent/Navigation$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbtstudent/Navigation$FoldersOnly$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbtstudent/Navigation$FoldersOnly$3$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbtstudent/Navigation.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbtstudent/Pssr$$anonfun$pullSolution$1$$anonfun$apply$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbtstudent/Pssr$$anonfun$pullSolution$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbtstudent/Pssr$$anonfun$pullTemplate$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbtstudent/Pssr$$anonfun$pullTemplate$2$$anonfun$apply$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbtstudent/Pssr$$anonfun$pullTemplate$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbtstudent/Pssr$$anonfun$restoreState$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbtstudent/Pssr$$anonfun$restoreState$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbtstudent/Pssr$$anonfun$saveState$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbtstudent/Pssr$$anonfun$savedStates$1$$anonfun$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbtstudent/Pssr$$anonfun$savedStates$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbtstudent/Pssr$$anonfun$showExerciseId$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbtstudent/Pssr$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbtstudent/Pssr.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbtstudent/StudentCommandsPlugin$$anonfun$globalSettings$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbtstudent/StudentCommandsPlugin$$anonfun$globalSettings$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbtstudent/StudentCommandsPlugin$$anonfun$projectSettings$1$$anonfun$apply$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbtstudent/StudentCommandsPlugin$$anonfun$projectSettings$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbtstudent/StudentCommandsPlugin$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbtstudent/StudentCommandsPlugin$autoImport$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbtstudent/StudentCommandsPlugin.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbtstudent/StudentKeys$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbtstudent/StudentKeys.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbtstudent/TestFolders$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbtstudent/TestFolders.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbtstudent/Zip$.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbtstudent/Zip.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/input_dsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.10/output_dsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/ivySbt/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/projectDescriptors/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/compile/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/copy-resources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/ivySbt/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/projectDescriptors/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/output" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.bookmark" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.courseName" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/build.sbt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/src/main/resources/application.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/src/main/scala/com/lightbend/akkassembly/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/src/main/scala/com/lightbend/akkassembly/BodyShop.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/src/main/scala/com/lightbend/akkassembly/EngineShop.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/src/main/scala/com/lightbend/akkassembly/PaintShop.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/src/main/scala/com/lightbend/akkassembly/WheelShop.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/src/test/resources/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/src/test/resources/application.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/src/test/scala/com/lightbend/akkassembly/BodyShopTest.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/src/test/scala/com/lightbend/akkassembly/EngineShopTest.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/src/test/scala/com/lightbend/akkassembly/PaintShopTest.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/src/test/scala/com/lightbend/akkassembly/WheelShopTest.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/.history" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/resolution-cache/com.lightbend.training/exercises$sources_2.12/1.0.0/resolved.xml.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/resolution-cache/com.lightbend.training/exercises$sources_2.12/1.0.0/resolved.xml.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/resolution-cache/com.lightbend.training/exercises_2.12/1.0.0/resolved.xml.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/resolution-cache/com.lightbend.training/exercises_2.12/1.0.0/resolved.xml.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/resolution-cache/reports/com.lightbend.training-exercises$sources_2.12-compile-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/resolution-cache/reports/com.lightbend.training-exercises$sources_2.12-compile.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/resolution-cache/reports/com.lightbend.training-exercises$sources_2.12-docs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/resolution-cache/reports/com.lightbend.training-exercises$sources_2.12-optional.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/resolution-cache/reports/com.lightbend.training-exercises$sources_2.12-plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/resolution-cache/reports/com.lightbend.training-exercises$sources_2.12-pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/resolution-cache/reports/com.lightbend.training-exercises$sources_2.12-provided.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/resolution-cache/reports/com.lightbend.training-exercises$sources_2.12-runtime-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/resolution-cache/reports/com.lightbend.training-exercises$sources_2.12-runtime.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/resolution-cache/reports/com.lightbend.training-exercises$sources_2.12-scala-tool.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/resolution-cache/reports/com.lightbend.training-exercises$sources_2.12-sources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/resolution-cache/reports/com.lightbend.training-exercises$sources_2.12-test-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/resolution-cache/reports/com.lightbend.training-exercises$sources_2.12-test.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/resolution-cache/reports/com.lightbend.training-exercises_2.12-compile-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/resolution-cache/reports/com.lightbend.training-exercises_2.12-compile.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/resolution-cache/reports/com.lightbend.training-exercises_2.12-docs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/resolution-cache/reports/com.lightbend.training-exercises_2.12-optional.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/resolution-cache/reports/com.lightbend.training-exercises_2.12-plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/resolution-cache/reports/com.lightbend.training-exercises_2.12-pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/resolution-cache/reports/com.lightbend.training-exercises_2.12-provided.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/resolution-cache/reports/com.lightbend.training-exercises_2.12-runtime-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/resolution-cache/reports/com.lightbend.training-exercises_2.12-runtime.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/resolution-cache/reports/com.lightbend.training-exercises_2.12-scala-tool.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/resolution-cache/reports/com.lightbend.training-exercises_2.12-sources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/resolution-cache/reports/com.lightbend.training-exercises_2.12-test-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/resolution-cache/reports/com.lightbend.training-exercises_2.12-test.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/resolution-cache/reports/ivy-report.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/resolution-cache/reports/ivy-report.xsl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/scala-2.12/classes/application.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/scala-2.12/test-classes/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/scala-2.12/test-classes/application.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/streams/$global/ivyConfiguration/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/streams/$global/update/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/streams/$global/updateClassifiers/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/streams/compile/compileIncremental/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/streams/compile/compileIncremental/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/streams/compile/copyResources/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/streams/compile/dependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/streams/compile/exportedProducts/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/streams/compile/externalDependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/streams/compile/internalDependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/streams/compile/managedClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/streams/compile/unmanagedClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/streams/compile/unmanagedJars/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/streams/runtime/exportedProducts/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/streams/runtime/externalDependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/streams/runtime/managedClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/streams/runtime/unmanagedClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/streams/runtime/unmanagedJars/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/streams/test/compileIncremental/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/streams/test/copyResources/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/streams/test/definedTests/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/streams/test/dependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/streams/test/exportedProducts/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/streams/test/externalDependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/streams/test/fullClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/streams/test/internalDependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/streams/test/loadedTestFrameworks/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/streams/test/managedClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/streams/test/test/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/streams/test/unmanagedClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/target/streams/test/unmanagedJars/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/build.sbt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/src/main/resources/application.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/src/main/scala/com/lightbend/akkassembly/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/src/main/scala/com/lightbend/akkassembly/BodyShop.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/src/main/scala/com/lightbend/akkassembly/EngineShop.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/src/main/scala/com/lightbend/akkassembly/PaintShop.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/src/main/scala/com/lightbend/akkassembly/WheelShop.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/src/test/resources/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/src/test/resources/application.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/src/test/scala/com/lightbend/akkassembly/AuditorTest.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/src/test/scala/com/lightbend/akkassembly/BodyShopTest.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/src/test/scala/com/lightbend/akkassembly/EngineShopTest.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/src/test/scala/com/lightbend/akkassembly/PaintShopTest.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/src/test/scala/com/lightbend/akkassembly/WheelShopTest.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/.history" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/resolution-cache/com.lightbend.training/exercises$sources_2.12/1.0.0/resolved.xml.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/resolution-cache/com.lightbend.training/exercises$sources_2.12/1.0.0/resolved.xml.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/resolution-cache/com.lightbend.training/exercises_2.12/1.0.0/resolved.xml.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/resolution-cache/com.lightbend.training/exercises_2.12/1.0.0/resolved.xml.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/resolution-cache/reports/com.lightbend.training-exercises$sources_2.12-compile-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/resolution-cache/reports/com.lightbend.training-exercises$sources_2.12-compile.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/resolution-cache/reports/com.lightbend.training-exercises$sources_2.12-docs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/resolution-cache/reports/com.lightbend.training-exercises$sources_2.12-optional.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/resolution-cache/reports/com.lightbend.training-exercises$sources_2.12-plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/resolution-cache/reports/com.lightbend.training-exercises$sources_2.12-pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/resolution-cache/reports/com.lightbend.training-exercises$sources_2.12-provided.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/resolution-cache/reports/com.lightbend.training-exercises$sources_2.12-runtime-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/resolution-cache/reports/com.lightbend.training-exercises$sources_2.12-runtime.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/resolution-cache/reports/com.lightbend.training-exercises$sources_2.12-scala-tool.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/resolution-cache/reports/com.lightbend.training-exercises$sources_2.12-sources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/resolution-cache/reports/com.lightbend.training-exercises$sources_2.12-test-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/resolution-cache/reports/com.lightbend.training-exercises$sources_2.12-test.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/resolution-cache/reports/com.lightbend.training-exercises_2.12-compile-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/resolution-cache/reports/com.lightbend.training-exercises_2.12-compile.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/resolution-cache/reports/com.lightbend.training-exercises_2.12-docs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/resolution-cache/reports/com.lightbend.training-exercises_2.12-optional.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/resolution-cache/reports/com.lightbend.training-exercises_2.12-plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/resolution-cache/reports/com.lightbend.training-exercises_2.12-pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/resolution-cache/reports/com.lightbend.training-exercises_2.12-provided.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/resolution-cache/reports/com.lightbend.training-exercises_2.12-runtime-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/resolution-cache/reports/com.lightbend.training-exercises_2.12-runtime.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/resolution-cache/reports/com.lightbend.training-exercises_2.12-scala-tool.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/resolution-cache/reports/com.lightbend.training-exercises_2.12-sources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/resolution-cache/reports/com.lightbend.training-exercises_2.12-test-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/resolution-cache/reports/com.lightbend.training-exercises_2.12-test.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/resolution-cache/reports/ivy-report.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/resolution-cache/reports/ivy-report.xsl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/scala-2.12/classes/application.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/scala-2.12/test-classes/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/scala-2.12/test-classes/application.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/streams/$global/ivyConfiguration/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/streams/$global/update/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/streams/$global/updateClassifiers/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/streams/compile/compileIncremental/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/streams/compile/compileIncremental/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/streams/compile/copyResources/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/streams/compile/dependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/streams/compile/exportedProducts/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/streams/compile/externalDependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/streams/compile/internalDependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/streams/compile/managedClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/streams/compile/unmanagedClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/streams/compile/unmanagedJars/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/streams/runtime/exportedProducts/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/streams/runtime/externalDependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/streams/runtime/managedClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/streams/runtime/unmanagedClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/streams/runtime/unmanagedJars/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/streams/test/compileIncremental/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/streams/test/copyResources/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/streams/test/definedTests/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/streams/test/dependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/streams/test/exportedProducts/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/streams/test/externalDependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/streams/test/fullClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/streams/test/internalDependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/streams/test/loadedTestFrameworks/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/streams/test/managedClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/streams/test/test/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/streams/test/unmanagedClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.cue/.savedExercises/exercise_002_working_with_sinks/target/streams/test/unmanagedJars/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__com_typesafe_akka_akka_actor_2_12_2_5_3_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__com_typesafe_akka_akka_stream_2_12_2_5_3_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__com_typesafe_akka_akka_stream_testkit_2_12_2_5_3_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__com_typesafe_akka_akka_testkit_2_12_2_5_3_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__com_typesafe_config_1_3_1_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__com_typesafe_ssl_config_core_2_12_0_2_1_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_reactivestreams_reactive_streams_1_0_0_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scala_lang_modules_scala_java8_compat_2_12_0_8_0_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scala_lang_modules_scala_parser_combinators_2_12_1_0_4_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scala_lang_modules_scala_xml_2_12_1_0_5_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scala_lang_scala_library_2_12_2_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scala_lang_scala_reflect_2_12_2_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scalactic_scalactic_2_12_3_0_1_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/SBT__org_scalatest_scalatest_2_12_3_0_1_jar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/base-build.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/base.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/common-build.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/common.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/exercises-build.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/exercises.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/sbt.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sbtopts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sbtrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build.sbt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/build.sbt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/src/main/resources/application.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/src/main/scala/com/lightbend/akkassembly/Car.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/src/main/scala/com/lightbend/akkassembly/Color.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/src/main/scala/com/lightbend/akkassembly/Engine.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/src/main/scala/com/lightbend/akkassembly/SerialNumber.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/src/main/scala/com/lightbend/akkassembly/Shipment.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/src/main/scala/com/lightbend/akkassembly/UnfinishedCar.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/src/main/scala/com/lightbend/akkassembly/Upgrades.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/src/main/scala/com/lightbend/akkassembly/Wheel.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/src/main/scala/com/lightbend/akkassembly/package.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/src/main/scala/com/lightbend/akkassembly/tester.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/src/test/resources/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/src/test/scala/com/lightbend/akkassembly/AkkaSpec.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/resolution-cache/com.lightbend.training/common$sources_2.12/1.0.0/resolved.xml.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/resolution-cache/com.lightbend.training/common$sources_2.12/1.0.0/resolved.xml.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/resolution-cache/com.lightbend.training/common_2.12/1.0.0/resolved.xml.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/resolution-cache/com.lightbend.training/common_2.12/1.0.0/resolved.xml.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/resolution-cache/org.scala-sbt.temp/temp-module-750703454be73072ce64f1c215ff85550284ae5b/0.13.13/resolved.xml.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/resolution-cache/org.scala-sbt.temp/temp-module-750703454be73072ce64f1c215ff85550284ae5b/0.13.13/resolved.xml.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/resolution-cache/reports/com.lightbend.training-common$sources_2.12-compile-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/resolution-cache/reports/com.lightbend.training-common$sources_2.12-compile.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/resolution-cache/reports/com.lightbend.training-common$sources_2.12-docs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/resolution-cache/reports/com.lightbend.training-common$sources_2.12-optional.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/resolution-cache/reports/com.lightbend.training-common$sources_2.12-plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/resolution-cache/reports/com.lightbend.training-common$sources_2.12-pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/resolution-cache/reports/com.lightbend.training-common$sources_2.12-provided.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/resolution-cache/reports/com.lightbend.training-common$sources_2.12-runtime-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/resolution-cache/reports/com.lightbend.training-common$sources_2.12-runtime.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/resolution-cache/reports/com.lightbend.training-common$sources_2.12-scala-tool.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/resolution-cache/reports/com.lightbend.training-common$sources_2.12-sources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/resolution-cache/reports/com.lightbend.training-common$sources_2.12-test-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/resolution-cache/reports/com.lightbend.training-common$sources_2.12-test.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/resolution-cache/reports/com.lightbend.training-common_2.12-compile-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/resolution-cache/reports/com.lightbend.training-common_2.12-compile.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/resolution-cache/reports/com.lightbend.training-common_2.12-docs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/resolution-cache/reports/com.lightbend.training-common_2.12-optional.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/resolution-cache/reports/com.lightbend.training-common_2.12-plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/resolution-cache/reports/com.lightbend.training-common_2.12-pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/resolution-cache/reports/com.lightbend.training-common_2.12-provided.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/resolution-cache/reports/com.lightbend.training-common_2.12-runtime-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/resolution-cache/reports/com.lightbend.training-common_2.12-runtime.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/resolution-cache/reports/com.lightbend.training-common_2.12-scala-tool.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/resolution-cache/reports/com.lightbend.training-common_2.12-sources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/resolution-cache/reports/com.lightbend.training-common_2.12-test-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/resolution-cache/reports/com.lightbend.training-common_2.12-test.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/resolution-cache/reports/ivy-report.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/resolution-cache/reports/ivy-report.xsl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/resolution-cache/reports/org.scala-sbt.temp-temp-module-750703454be73072ce64f1c215ff85550284ae5b-component.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/scala-2.12/classes/application.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/scala-2.12/test-classes/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/streams/$global/$global/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/streams/$global/ivyConfiguration/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/streams/$global/update/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/streams/$global/updateClassifiers/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/streams/$global/updateSbtClassifiers/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/streams/compile/compileIncremental/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/streams/compile/compileIncremental/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/streams/compile/copyResources/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/streams/compile/dependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/streams/compile/exportedProducts/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/streams/compile/externalDependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.12" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/streams/compile/internalDependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/streams/compile/managedClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/streams/compile/unmanagedClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/streams/compile/unmanagedJars/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/streams/runtime/exportedProducts/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/streams/runtime/externalDependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/streams/runtime/managedClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/streams/runtime/unmanagedClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/streams/runtime/unmanagedJars/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/streams/test/compileIncremental/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/streams/test/compileIncremental/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/streams/test/copyResources/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/streams/test/dependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/streams/test/exportedProducts/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/streams/test/externalDependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/streams/test/incCompileSetup/$global/streams/inc_compile_2.12" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/streams/test/internalDependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/streams/test/managedClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/streams/test/unmanagedClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/target/streams/test/unmanagedJars/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/build.sbt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/src/main/resources/application.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/src/main/scala/com/lightbend/akkassembly/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/src/main/scala/com/lightbend/akkassembly/Auditor.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/src/main/scala/com/lightbend/akkassembly/BodyShop.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/src/main/scala/com/lightbend/akkassembly/EngineShop.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/src/main/scala/com/lightbend/akkassembly/Factory.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/src/main/scala/com/lightbend/akkassembly/PaintShop.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/src/main/scala/com/lightbend/akkassembly/QualityAssurance.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/src/main/scala/com/lightbend/akkassembly/WheelShop.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/src/test/resources/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/src/test/resources/application.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/src/test/scala/com/lightbend/akkassembly/AuditorTest.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/src/test/scala/com/lightbend/akkassembly/BodyShopTest.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/src/test/scala/com/lightbend/akkassembly/EngineShopTest.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/src/test/scala/com/lightbend/akkassembly/FactoryTest.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/src/test/scala/com/lightbend/akkassembly/PaintShopTest.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/src/test/scala/com/lightbend/akkassembly/QualityAssuranceTest.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/src/test/scala/com/lightbend/akkassembly/WheelShopTest.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/.history" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/resolution-cache/com.lightbend.training/exercises$sources_2.12/1.0.0/resolved.xml.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/resolution-cache/com.lightbend.training/exercises$sources_2.12/1.0.0/resolved.xml.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/resolution-cache/com.lightbend.training/exercises_2.12/1.0.0/resolved.xml.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/resolution-cache/com.lightbend.training/exercises_2.12/1.0.0/resolved.xml.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/resolution-cache/reports/com.lightbend.training-exercises$sources_2.12-compile-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/resolution-cache/reports/com.lightbend.training-exercises$sources_2.12-compile.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/resolution-cache/reports/com.lightbend.training-exercises$sources_2.12-docs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/resolution-cache/reports/com.lightbend.training-exercises$sources_2.12-optional.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/resolution-cache/reports/com.lightbend.training-exercises$sources_2.12-plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/resolution-cache/reports/com.lightbend.training-exercises$sources_2.12-pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/resolution-cache/reports/com.lightbend.training-exercises$sources_2.12-provided.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/resolution-cache/reports/com.lightbend.training-exercises$sources_2.12-runtime-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/resolution-cache/reports/com.lightbend.training-exercises$sources_2.12-runtime.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/resolution-cache/reports/com.lightbend.training-exercises$sources_2.12-scala-tool.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/resolution-cache/reports/com.lightbend.training-exercises$sources_2.12-sources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/resolution-cache/reports/com.lightbend.training-exercises$sources_2.12-test-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/resolution-cache/reports/com.lightbend.training-exercises$sources_2.12-test.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/resolution-cache/reports/com.lightbend.training-exercises_2.12-compile-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/resolution-cache/reports/com.lightbend.training-exercises_2.12-compile.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/resolution-cache/reports/com.lightbend.training-exercises_2.12-docs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/resolution-cache/reports/com.lightbend.training-exercises_2.12-optional.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/resolution-cache/reports/com.lightbend.training-exercises_2.12-plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/resolution-cache/reports/com.lightbend.training-exercises_2.12-pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/resolution-cache/reports/com.lightbend.training-exercises_2.12-provided.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/resolution-cache/reports/com.lightbend.training-exercises_2.12-runtime-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/resolution-cache/reports/com.lightbend.training-exercises_2.12-runtime.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/resolution-cache/reports/com.lightbend.training-exercises_2.12-scala-tool.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/resolution-cache/reports/com.lightbend.training-exercises_2.12-sources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/resolution-cache/reports/com.lightbend.training-exercises_2.12-test-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/resolution-cache/reports/com.lightbend.training-exercises_2.12-test.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/resolution-cache/reports/ivy-report.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/resolution-cache/reports/ivy-report.xsl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/scala-2.12/classes/application.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/scala-2.12/test-classes/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/scala-2.12/test-classes/application.conf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/streams/$global/ivyConfiguration/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/streams/$global/update/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/streams/$global/updateClassifiers/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/streams/compile/compileIncremental/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/streams/compile/compileIncremental/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/streams/compile/copyResources/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/streams/compile/dependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/streams/compile/exportedProducts/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/streams/compile/externalDependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.12" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/streams/compile/internalDependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/streams/compile/managedClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/streams/compile/unmanagedClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/streams/compile/unmanagedJars/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/streams/runtime/exportedProducts/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/streams/runtime/externalDependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/streams/runtime/managedClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/streams/runtime/unmanagedClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/streams/runtime/unmanagedJars/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/streams/test/compileIncremental/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/streams/test/compileIncremental/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/streams/test/copyResources/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/streams/test/definedTests/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/streams/test/dependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/streams/test/exportedProducts/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/streams/test/externalDependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/streams/test/fullClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/streams/test/incCompileSetup/$global/streams/inc_compile_2.12" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/streams/test/internalDependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/streams/test/loadedTestFrameworks/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/streams/test/managedClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/streams/test/test/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/streams/test/test/$global/streams/succeeded_tests" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/streams/test/test/isModule=false name=com.lightbend.akkassembly.AuditorTest/test/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/streams/test/test/isModule=false name=com.lightbend.akkassembly.BodyShopTest/test/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/streams/test/test/isModule=false name=com.lightbend.akkassembly.EngineShopTest/test/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/streams/test/test/isModule=false name=com.lightbend.akkassembly.FactoryTest/test/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/streams/test/test/isModule=false name=com.lightbend.akkassembly.PaintShopTest/test/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/streams/test/test/isModule=false name=com.lightbend.akkassembly.QualityAssuranceTest/test/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/streams/test/test/isModule=false name=com.lightbend.akkassembly.WheelShopTest/test/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/streams/test/unmanagedClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/streams/test/unmanagedJars/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/test-reports/com.lightbend.akkassembly.AuditorTest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/test-reports/com.lightbend.akkassembly.BodyShopTest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/test-reports/com.lightbend.akkassembly.EngineShopTest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/test-reports/com.lightbend.akkassembly.FactoryTest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/test-reports/com.lightbend.akkassembly.PaintShopTest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/test-reports/com.lightbend.akkassembly.QualityAssuranceTest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exercises/target/test-reports/com.lightbend.akkassembly.WheelShopTest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/generate_parameters.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/AdditionalSettings.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/CommonSettings.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/CompileOptions.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/Dependencies.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/Man.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/Navigation.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/Pssr.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/StudentCommandsPlugin.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/StudentKeys.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/TestFolders.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/Zip.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/build.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/plugins.sbt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/resolution-cache/default/lts-p-lightbend-akka-streams-for-scala-professional-exercises-v1-20170726-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/resolution-cache/default/lts-p-lightbend-akka-streams-for-scala-professional-exercises-v1-20170726-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/resolution-cache/org.scala-sbt.temp/temp-module-750703454be73072ce64f1c215ff85550284ae5b/0.13.13/resolved.xml.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/resolution-cache/org.scala-sbt.temp/temp-module-750703454be73072ce64f1c215ff85550284ae5b/0.13.13/resolved.xml.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-lts-p-lightbend-akka-streams-for-scala-professional-exercises-v1-20170726-build-compile-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-lts-p-lightbend-akka-streams-for-scala-professional-exercises-v1-20170726-build-compile.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-lts-p-lightbend-akka-streams-for-scala-professional-exercises-v1-20170726-build-docs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-lts-p-lightbend-akka-streams-for-scala-professional-exercises-v1-20170726-build-optional.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-lts-p-lightbend-akka-streams-for-scala-professional-exercises-v1-20170726-build-plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-lts-p-lightbend-akka-streams-for-scala-professional-exercises-v1-20170726-build-pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-lts-p-lightbend-akka-streams-for-scala-professional-exercises-v1-20170726-build-provided.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-lts-p-lightbend-akka-streams-for-scala-professional-exercises-v1-20170726-build-runtime-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-lts-p-lightbend-akka-streams-for-scala-professional-exercises-v1-20170726-build-runtime.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-lts-p-lightbend-akka-streams-for-scala-professional-exercises-v1-20170726-build-scala-tool.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-lts-p-lightbend-akka-streams-for-scala-professional-exercises-v1-20170726-build-sources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-lts-p-lightbend-akka-streams-for-scala-professional-exercises-v1-20170726-build-test-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-lts-p-lightbend-akka-streams-for-scala-professional-exercises-v1-20170726-build-test.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/ivy-report.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/ivy-report.xsl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/org.scala-sbt.temp-temp-module-750703454be73072ce64f1c215ff85550284ae5b-component.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/classes/sbt/sbt.autoplugins" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/scala-2.10/sbt-0.13/resource_managed/main/sbt/sbt.autoplugins" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/$global/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/ivyConfiguration/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/$global/updateSbtClassifiers/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.10" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/internalDependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/unmanagedClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/compile/unmanagedJars/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/runtime/unmanagedClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project/target/streams/runtime/unmanagedJars/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/resources/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/com.lightbend.training/base$sources_2.12/1.0.0/resolved.xml.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/com.lightbend.training/base$sources_2.12/1.0.0/resolved.xml.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/com.lightbend.training/base_2.12/1.0.0/resolved.xml.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/com.lightbend.training/base_2.12/1.0.0/resolved.xml.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.lightbend.training-base$sources_2.12-compile-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.lightbend.training-base$sources_2.12-compile.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.lightbend.training-base$sources_2.12-docs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.lightbend.training-base$sources_2.12-optional.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.lightbend.training-base$sources_2.12-plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.lightbend.training-base$sources_2.12-pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.lightbend.training-base$sources_2.12-provided.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.lightbend.training-base$sources_2.12-runtime-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.lightbend.training-base$sources_2.12-runtime.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.lightbend.training-base$sources_2.12-scala-tool.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.lightbend.training-base$sources_2.12-sources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.lightbend.training-base$sources_2.12-test-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.lightbend.training-base$sources_2.12-test.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.lightbend.training-base_2.12-compile-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.lightbend.training-base_2.12-compile.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.lightbend.training-base_2.12-docs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.lightbend.training-base_2.12-optional.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.lightbend.training-base_2.12-plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.lightbend.training-base_2.12-pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.lightbend.training-base_2.12-provided.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.lightbend.training-base_2.12-runtime-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.lightbend.training-base_2.12-runtime.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.lightbend.training-base_2.12-scala-tool.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.lightbend.training-base_2.12-sources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.lightbend.training-base_2.12-test-internal.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/com.lightbend.training-base_2.12-test.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/ivy-report.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/resolution-cache/reports/ivy-report.xsl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructure/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/managedClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/unmanagedClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/compile/unmanagedJars/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/runtime/unmanagedClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/runtime/unmanagedJars/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/test/managedClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/test/unmanagedClasspath/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/streams/test/unmanagedJars/$global/streams/export" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/version.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/version.sbt" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/common/target/" />
+    <ignored path="$PROJECT_DIR$/exercises/target/" />
+    <ignored path="$PROJECT_DIR$/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/project/target/" />
+    <ignored path="$PROJECT_DIR$/common/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/common/project/target/" />
+    <ignored path="$PROJECT_DIR$/exercises/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/exercises/project/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="base" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="BodyShop.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exercises/src/main/scala/com/lightbend/akkassembly/BodyShop.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QualityAssuranceTest.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exercises/src/test/scala/com/lightbend/akkassembly/QualityAssuranceTest.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1175">
+              <caret line="51" column="9" lean-forward="false" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UnfinishedCar.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common/src/main/scala/com/lightbend/akkassembly/UnfinishedCar.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="6" column="11" lean-forward="false" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Factory.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/exercises/src/main/scala/com/lightbend/akkassembly/Factory.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="335">
+              <caret line="23" column="12" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+              <folding>
+                <element signature="e#35#66#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QualityAssurance.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exercises/src/main/scala/com/lightbend/akkassembly/QualityAssurance.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="13" column="1" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+              <folding>
+                <element signature="e#35#54#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FactoryTest.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exercises/src/test/scala/com/lightbend/akkassembly/FactoryTest.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="12" column="56" lean-forward="false" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="56" />
+              <folding>
+                <element signature="e#35#64#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Auditor.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exercises/src/main/scala/com/lightbend/akkassembly/Auditor.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="10" column="49" lean-forward="false" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="49" />
+              <folding>
+                <element signature="e#35#62#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/common/src/main/scala/com/lightbend/akkassembly/Shipment.scala" />
+        <option value="$PROJECT_DIR$/exercises/src/main/scala/com/lightbend/akkassembly/BodyShop.scala" />
+        <option value="$PROJECT_DIR$/common/src/main/scala/com/lightbend/akkassembly/Auditor.scala" />
+        <option value="$PROJECT_DIR$/exercises/src/main/scala/com/lightbend/akkassembly/PaintShop.scala" />
+        <option value="$PROJECT_DIR$/exercises/src/main/scala/com/lightbend/akkassembly/WheelShop.scala" />
+        <option value="$PROJECT_DIR$/exercises/src/main/scala/com/lightbend/akkassembly/EngineShop.scala" />
+        <option value="$PROJECT_DIR$/exercises/src/test/scala/com/lightbend/akkassembly/QualityAssurance.scala" />
+        <option value="$PROJECT_DIR$/exercises/src/test/scala/com/lightbend/akkassembly/EngineShopTest.scala" />
+        <option value="$PROJECT_DIR$/common/src/main/scala/com/lightbend/akkassembly/tester.scala" />
+        <option value="$PROJECT_DIR$/exercises/src/main/scala/com/lightbend/akkassembly/QualityAssurance.scala" />
+        <option value="$PROJECT_DIR$/exercises/src/main/scala/com/lightbend/akkassembly/Auditor.scala" />
+        <option value="$PROJECT_DIR$/exercises/src/main/scala/com/lightbend/akkassembly/Factory.scala" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
+    <option name="width" value="1942" />
+    <option name="height" value="1052" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="base" type="b2602c69:ProjectViewProjectNode" />
+              <item name="akka-streams-exercise" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../ws_to_kafka" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.lightbend.akkassembly" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.tester">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="tester" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.lightbend.akkassembly.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.lightbend.akkassembly.tester" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="common" />
+      <envs />
+    </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.tester" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="lastUpdateTimestamp" value="1504916150171" />
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="base" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="base" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="common" />
+                <option name="path" value="$PROJECT_DIR$/common" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="exercises" />
+                <option name="path" value="$PROJECT_DIR$/exercises" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="base-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="common-build" />
+                <option name="path" value="$PROJECT_DIR$/common/project" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="exercises-build" />
+                <option name="path" value="$PROJECT_DIR$/exercises/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd4dd087-aa6d-4931-94df-26cfce3bb4a1" name="Default" comment="" />
+      <created>1504829282297</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1504829282297</updated>
+      <workItem from="1504829283684" duration="12836000" />
+      <workItem from="1504889054750" duration="5139000" />
+      <workItem from="1504916065297" duration="1608000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="19583000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-11" y="-11" width="1942" height="1052" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="SBT" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34216216" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298611" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33842537" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16324325" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="sbt-shell-toolwindow" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287037" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/exercises/src/main/scala/com/lightbend/akkassembly/BodyShop.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/src/test/scala/com/lightbend/akkassembly/QualityAssuranceTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1175">
+          <caret line="51" column="9" lean-forward="true" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/main/scala/com/lightbend/akkassembly/UnfinishedCar.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="6" column="11" lean-forward="false" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/src/main/scala/com/lightbend/akkassembly/QualityAssurance.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <element signature="e#35#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/src/test/scala/com/lightbend/akkassembly/FactoryTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="12" column="56" lean-forward="true" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="56" />
+          <folding>
+            <element signature="e#35#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/src/main/scala/com/lightbend/akkassembly/Auditor.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="10" column="49" lean-forward="false" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="49" />
+          <folding>
+            <element signature="e#35#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/src/main/scala/com/lightbend/akkassembly/Factory.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding>
+            <element signature="e#35#66#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/test/scala/com/lightbend/akkassembly/AkkaSpec.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="10" column="6" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/src/main/scala/com/lightbend/akkassembly/BodyShop.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="14" lean-forward="false" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/src/main/scala/com/lightbend/akkassembly/PaintShop.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="13" column="3" lean-forward="false" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/src/main/scala/com/lightbend/akkassembly/WheelShop.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/src/main/scala/com/lightbend/akkassembly/QualityAssurance.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+          <folding>
+            <element signature="e#35#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/main/scala/com/lightbend/akkassembly/UnfinishedCar.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="6" column="11" lean-forward="false" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/src/main/scala/com/lightbend/akkassembly/Auditor.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="18" column="27" lean-forward="false" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+          <folding>
+            <element signature="e#35#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/src/test/scala/com/lightbend/akkassembly/QualityAssuranceTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1550">
+          <caret line="66" column="7" lean-forward="true" selection-start-line="66" selection-start-column="7" selection-end-line="66" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generate_parameters.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/version.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/version.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/main/scala/com/lightbend/akkassembly/Wheel.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="11" lean-forward="false" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="25">
+            <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/main/scala/com/lightbend/akkassembly/package.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-475">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-actor_2.12/srcs/akka-actor_2.12-2.5.3-sources.jar!/akka/event/Logging.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="1272" column="0" lean-forward="true" selection-start-line="1272" selection-start-column="0" selection-end-line="1272" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/src/main/scala/com/lightbend/akkassembly/EngineShop.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/main/scala/com/lightbend/akkassembly/Engine.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="11" lean-forward="false" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/src/test/scala/com/lightbend/akkassembly/WheelShopTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.2-sources.jar!/scala/collection/Iterator.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="158" column="6" lean-forward="false" selection-start-line="158" selection-start-column="6" selection-end-line="158" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/main/scala/com/lightbend/akkassembly/Shipment.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="37" lean-forward="true" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.2-sources.jar!/scala/package.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="45" column="6" lean-forward="false" selection-start-line="45" selection-start-column="6" selection-end-line="45" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/src/test/scala/com/lightbend/akkassembly/BodyShopTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/test/scala/com/lightbend/akkassembly/AkkaSpec.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="10" column="6" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/src/test/scala/com/lightbend/akkassembly/PaintShopTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-75">
+          <caret line="9" column="6" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/main/scala/com/lightbend/akkassembly/SerialNumber.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="11" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/main/scala/com/lightbend/akkassembly/Car.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="11" lean-forward="false" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.cue/.savedExercises/exercise_001_working_with_sources/src/test/scala/com/lightbend/akkassembly/EngineShopTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-629">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/main/scala/com/lightbend/akkassembly/tester.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="e#35#69#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/src/main/scala/com/lightbend/akkassembly/WheelShop.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/src/main/scala/com/lightbend/akkassembly/EngineShop.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-148">
+          <caret line="7" column="6" lean-forward="false" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/src/main/scala/com/lightbend/akkassembly/PaintShop.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/src/test/scala/com/lightbend/akkassembly/AuditorTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2160">
+          <caret line="11" column="6" lean-forward="false" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/src/test/scala/com/lightbend/akkassembly/EngineShopTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-375">
+          <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-stream_2.12/srcs/akka-stream_2.12-2.5.3-sources.jar!/akka/stream/scaladsl/Sink.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="175" column="6" lean-forward="false" selection-start-line="175" selection-start-column="6" selection-end-line="175" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/src/main/scala/com/lightbend/akkassembly/BodyShop.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/src/main/scala/com/lightbend/akkassembly/Auditor.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="10" column="49" lean-forward="false" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="49" />
+          <folding>
+            <element signature="e#35#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/main/scala/com/lightbend/akkassembly/UnfinishedCar.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="6" column="11" lean-forward="false" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/src/test/scala/com/lightbend/akkassembly/QualityAssuranceTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1175">
+          <caret line="51" column="9" lean-forward="false" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/src/test/scala/com/lightbend/akkassembly/FactoryTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="12" column="56" lean-forward="false" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="56" />
+          <folding>
+            <element signature="e#35#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/src/main/scala/com/lightbend/akkassembly/QualityAssurance.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="13" column="1" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <element signature="e#35#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/src/main/scala/com/lightbend/akkassembly/Factory.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="23" column="12" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding>
+            <element signature="e#35#66#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

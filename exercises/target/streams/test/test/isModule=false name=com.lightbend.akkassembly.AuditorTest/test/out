@@ -1,0 +1,16 @@
+[0m[[0minfo[0m] [0m[32mAuditorTest:[0m[0m
+[0m[[0minfo[0m] [0m[32mcount[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return zero if the stream is empty[0m[0m
+[0m[[0minfo[0m] [0m[32m- should count elements in the stream[0m[0m
+[0m[[0minfo[0m] [0m[32mlog[0m[0m
+[0m[[0minfo[0m] [0m[32m- should log nothing if the source is empty.[0m[0m
+[0m[[0minfo[0m] [0m[32m- should log all elements to the logging adapter.[0m[0m
+[0m[[0minfo[0m] [0m[32m- should log the exact element[0m[0m
+[0m[[0minfo[0m] [0m[32msample[0m[0m
+[0m[[0minfo[0m] [0m[32m- should do nothing if the source is empty[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return all elements if they appear within the sample period.[0m[0m
+[0m[[0minfo[0m] [0m[32m- should ignore elements that appear outside the expected sample period.[0m[0m
+[0m[[0minfo[0m] [0m[32maudit[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return zero if there are no cars in the stream[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return all cars if they are within the sample period[0m[0m
+[0m[[0minfo[0m] [0m[32m- should limit the cars to only those that are within the sample period[0m[0m

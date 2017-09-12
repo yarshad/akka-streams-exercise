@@ -1,0 +1,9 @@
+[0m[[0minfo[0m] [0m[32mEngineShopTest:[0m[0m
+[0m[[0minfo[0m] [0m[32mshipments[0m[0m
+[0m[[0minfo[0m] [0m[32m- should emit a series of unique shipments[0m[0m
+[0m[[0minfo[0m] [0m[32m- should emit unique engines from one shipment to the next[0m[0m
+[0m[[0minfo[0m] [0m[32mengines[0m[0m
+[0m[[0minfo[0m] [0m[32m- should flatten the shipments into a series of unique engines[0m[0m
+[0m[[0minfo[0m] [0m[32minstallEngine[0m[0m
+[0m[[0minfo[0m] [0m[32m- should terminate if there are no cars[0m[0m
+[0m[[0minfo[0m] [0m[32m- should install an engine in the car.[0m[0m

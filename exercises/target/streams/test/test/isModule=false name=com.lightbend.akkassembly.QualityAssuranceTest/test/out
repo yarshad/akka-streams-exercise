@@ -1,0 +1,6 @@
+[0m[[0minfo[0m] [0m[32mQualityAssuranceTest:[0m[0m
+[0m[[0minfo[0m] [0m[32minspect[0m[0m
+[0m[[0minfo[0m] [0m[32m- should reject cars with no Color[0m[0m
+[0m[[0minfo[0m] [0m[32m- should reject cars with no Engine[0m[0m
+[0m[[0minfo[0m] [0m[32m- should reject cars with no Wheels[0m[0m
+[0m[[0minfo[0m] [0m[32m- should accept cars that are complete[0m[0m

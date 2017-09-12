@@ -1,0 +1,7 @@
+[0m[[0minfo[0m] [0m[32mPaintShopTest:[0m[0m
+[0m[[0minfo[0m] [0m[32mcolors[0m[0m
+[0m[[0minfo[0m] [0m[32m- should repeat each color in the color set[0m[0m
+[0m[[0minfo[0m] [0m[32mpaint[0m[0m
+[0m[[0minfo[0m] [0m[32m- should throw an error if there are no colors[0m[0m
+[0m[[0minfo[0m] [0m[32m- should terminate if there are no cars[0m[0m
+[0m[[0minfo[0m] [0m[32m- should apply the paint colors to the cars[0m[0m
